@@ -17,3 +17,7 @@ app.get('/users', (req, res) => {
 })
 
 app.listen(3000)
+
+// usuario e senha banco de dados mongoDB
+// user: reinaldoapi
+// password: j152O1SiWD2Q7uZ1
