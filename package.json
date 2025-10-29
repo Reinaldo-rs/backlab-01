@@ -1,0 +1,24 @@
+{
+  "name": "backlab-01",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "backlab-01 é o primeiro experimento do Laboratório de Backends, uma série de projetos criados para explorar, na prática, o desenvolvimento de APIs modernas.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Reinaldo-rs/backlab-01.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Reinaldo-rs/backlab-01/issues"
+  },
+  "homepage": "https://github.com/Reinaldo-rs/backlab-01#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
